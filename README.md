@@ -12,6 +12,7 @@ Live Website preview
 * authentication by social login [Google and Facebook] and Capatcha for confiremation 
 * Advanced search by product name, category , and brand.
 * shopping Cart and wish list to saved items for later times.
+* Advanced Filter by product name, category , option values , attributes and brand.
 * Coupon System.
 * Shipping system by region and areas multiple shipping methods like(Interno delivery,Bosta , Aramex , Fedex).
 * checkout with different payment methods.
